@@ -1,4 +1,4 @@
-here::i_am('scripts/make_scatterplot.R')
+here::i_am('scripts/make_graph.R')
 
 library(tidyverse)
 library(ggplot2)
